@@ -1,0 +1,9 @@
+{
+  "name": "GaneshayStudio Creative Suite v4",
+  "description": "A professional-grade creative suite for Video, Image, and Audio editing enhanced with Gemini AI.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": []
+}
